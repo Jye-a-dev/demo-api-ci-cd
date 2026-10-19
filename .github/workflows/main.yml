@@ -19,4 +19,4 @@ jobs:
 
       - name: 4. Chạy bộ Test tự động
         run: |
-            newman run "Testing API.postman_collection.json" -e Env.postman_environment.json
+            newman run "Testing APi.postman_collection.json" -e Env.postman_environment.json
